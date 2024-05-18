@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Animals</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Me</string>
+    <string name="empty_favorite">No Favorite List</string>
+    <string name="search_text">Search Animal</string>
+    <string name="back">Back</string>
+    <string name="favorite">Favorite</string>
+    <string name="delete_favorite">Remove from Favorite</string>
+    <string name="add_favorite">Add to Favorite</string>
+    <string name="empty_data">Empty Data</string>
+    <string name="name_author">FEBY ANGGRAINI FIRDATULLAIL</string>
+    <string name="email_author">A129BSX1931@bangkit.academy</string>
+
+</resources>
